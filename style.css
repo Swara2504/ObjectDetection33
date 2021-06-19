@@ -1,0 +1,26 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    border-radius: 100px,50px;
+}
+body
+    {
+    background-size: cover;
+    background-position: center;
+}
+ a
+{
+    background-color: white;
+  display: block;
+  color: black;
+  padding: 20px 10px;
+  text-decoration: underline;
+  border: 2px solid hotpink;
+  text-align: center;
+  width: 50%;
+  border-radius: 20px;
+  height: 50px;
+  box-shadow: 5px 5px 5px lightyellow;
+}
